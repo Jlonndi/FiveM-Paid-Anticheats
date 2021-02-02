@@ -4,9 +4,18 @@
 
 
 <strong>Anticheats:</strong>
-1. **Myrica (choco)** 
-2. **Godzilla-AC**
-3. **Ultimate-AC**
+1. **Choco 10** - Source 
+2. **Fuxia** - Crack
+3. **Godzilla-AC** - Crack
+4. **Ultimate-AC** - Crack
+5. **Huge-AC** - Source
+6. **MixasTrashCrack** - Crack  https://i.imgur.com/A4DtWlR.png < X D 
+7. **MustRPTrashSource** - Source
+8. **PikaTrashSource** - Source
+9. **ReaperTrashCrack** - Crack
+10. **VanillaTrashCrack** - Crack
+11. **WaveShieldTrashCrack** - Crack
+
 
 Enjoy and have fun.
 
