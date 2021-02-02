@@ -25,7 +25,7 @@ Credits:
 1. https://github.com/Korioz Fuxia/method.
 2. https://github.com/maciasexe Choco10.
 3. https://github.com/MasterLua WaveShield.
-If u want u can send more anticheats on my discord and i will update this repository!
+**If u want u can send more anticheats on my discord and i will update this repository!**
 
 
 # [Discord]
