@@ -26,8 +26,9 @@ Credits:
 2. https://github.com/maciasexe Choco10.
 3. https://github.com/MasterLua WaveShield.
 # [INFO]
-**If u want u can send more anticheats on my discord and i will update this repository!**
+**If u want u can send more anticheats on my discord and i will update this repository!** bump
 
 
 # [Discord]
 definitely not PK!?#1337
+
