@@ -21,7 +21,6 @@
 
 Enjoy and have fun.
 
-And don't worry it havent any shit in it like backdoor's everything is clear.
 
 Credits:
 1. https://github.com/Korioz Fuxia/method.
