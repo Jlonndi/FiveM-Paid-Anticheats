@@ -9,17 +9,19 @@
 3. **Godzilla-AC** - Crack
 4. **Ultimate-AC** - Crack
 5. **Huge-AC** - Source
-6. **Mixas-AC** - Crack & source deobfuscated so its shitty but readable meme: https://i.imgur.com/A4DtWlR.png
-7. **MustRPTrash** - Source
-8. **Pika-AC** - Source
-9. **ReaperTrash** - Crack
-10. **Vanilla-AC** - Crack
-11. **WaveShield** - Crack
-12. **IronShield** - Crack btw. Thanks for uploading your files on github meme: https://i.imgur.com/h9t3Fds.png
-13. **Fire-AC** - Source
-14. **7777shitac** - Source
-15. **Pixel-AC** - Source PixelAC aka OverwolfAC server side source :) 
-16. **VB-AC** - Source i added it only cuz they deleted it from gtihub so in future they wont make money with it..
+6. **Mixas-AC** - Crack meme: https://i.imgur.com/A4DtWlR.png
+7. **Mixas-AC** - Source deobfuscated so its shitty but readable meme: https://i.imgur.com/A4DtWlR.png
+8. **MustRPTrash** - Source
+9. **Pika-AC** - Source
+10. **ReaperTrash** - Crack
+11. **ReaperTrash** - Source deobfuscated so its shitty but readable
+12. **Vanilla-AC** - Crack
+13. **WaveShield** - Crack
+14. **IronShield** - Crack btw. Thanks for uploading your files on github meme: https://i.imgur.com/h9t3Fds.png
+15. **Fire-AC** - Source
+16. **7777shitac** - Source
+17. **Pixel-AC** - Source PixelAC aka OverwolfAC server side source :) 
+18. **VB-AC** - Source i added it only cuz they deleted it from gtihub so in future they wont make money with it..
 
 
 Enjoy and have fun.
