@@ -4,7 +4,7 @@
 
 
 <strong>Trash Anticheats:</strong>
-1. **Chocohax 10** - Source
+1. **Chocohax** - Source
 2. **Fuxia** - Crack aka choco
 3. **Godzilla-AC** - Crack
 4. **Ultimate-AC** - Crack
@@ -17,8 +17,9 @@
 11. **WaveShield** - Crack
 12. **IronShield** - Crack btw. Thanks for uploading your files on github meme: https://i.imgur.com/h9t3Fds.png
 13. **Fire-AC** - Source
-14. **Pixel-AC** - Source PixelAC aka OverwolfAC server side source :) 
-15. **VB-AC** - Source i added it only cuz they deleted it from gtihub so in future they wont make money with it..
+14. **7777shitac** - Source
+15. **Pixel-AC** - Source PixelAC aka OverwolfAC server side source :) 
+16. **VB-AC** - Source i added it only cuz they deleted it from gtihub so in future they wont make money with it..
 
 
 Enjoy and have fun.
