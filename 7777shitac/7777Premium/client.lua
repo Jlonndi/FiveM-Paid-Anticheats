@@ -6,7 +6,7 @@ RegisterNetEvent("AC:adminmenuenabley")
 RegisterNetEvent("AC:invalid")
 RegisterNetEvent("AC:awakey")
 
-local titolo = "~u~AC ~s~Admin Menu"
+local titolo = "~u~AC ~s~Admin Menus"
 local pisellone = PlayerId(-1)
 local pisello = GetPlayerName(pisellone)
 local showblip = false
