@@ -21,9 +21,10 @@
 15. **Fire-AC** - Source
 16. **7777shitac** - Source
 17. **Pixel-AC** - Source PixelAC aka OverwolfAC server side source :) 
-18. **VB-AC** - Source i added it only cuz they deleted it from gtihub so in future they wont make money with it..
+18. **VB-AC** - Source i added it only cuz they deleted it from gtihub so in future they wont make money with it.. ( actually they trying to make with FYAC XD )
 19. **fyac** - Source deobfuscated so its shitty but readable
 20. **FIREAC-NEW-SOURCE** - server side source updated fireac. 
+21. **POWERAC** - source and auth. Pasted shit.
 
 Enjoy and have fun..
 
